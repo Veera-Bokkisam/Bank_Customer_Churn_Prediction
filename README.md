@@ -1,2 +1,2 @@
 # Bank_Customer_Churn_Prediction
-Machine Learning project to predict customer churn using XGBoost &amp; SHAP
+End-to-end Machine Learning project to predict bank customer churn using XGBoost, SHAP, and Streamlit.
