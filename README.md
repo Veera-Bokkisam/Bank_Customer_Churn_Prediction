@@ -125,6 +125,27 @@ streamlit run app/app.py
 
 ---
 
+## 📸 Project Screenshots
+
+### **Streamlit UI (Top)**
+![Streamlit UI Top](assets/streamlit_ui_top.png)
+
+---
+
+### **Streamlit UI (Bottom)**
+![Streamlit UI Bottom](assets/streamlit_ui_bottom.png)
+
+---
+
+### **XGBoost Feature Importance**
+![Feature Importance](assets/feature_importance.png)
+
+---
+
+### **SHAP Summary Plot**
+![SHAP Summary](assets/shap_summary.png)
+
+
 ## ✅ Conclusion
 This project delivers:
 - A full ML workflow  
