@@ -129,6 +129,49 @@ streamlit run app/app.py
 
 ---
 
+## 🚀 How to Run This Project
+
+Follow the steps below to set up and run the churn prediction project on your local machine.
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Veera-Bokkisam/Bank_Customer_Churn_Prediction.git
+cd Bank_Customer_Churn_Prediction
+```
+
+### 2️⃣ Install Dependencies
+Make sure you have Python 3.8+ installed.
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Streamlit App
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser at:
+
+```
+http://localhost:8501
+```
+
+### 4️⃣ Run the Jupyter Notebook (Optional)
+If you want to explore the full model-building workflow:
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```
+notebooks/Bank_Churn_Project.ipynb
+```
+
+---
+
 ## 📸 Project Screenshots
 
 ### **Streamlit UI (Top)**
